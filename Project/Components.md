@@ -2,14 +2,22 @@
 
 1) Light Emitting Diode (LED)
 
-<p align="center">
-  <img src="images/led.png" width="500"/>
+<p align="left">
+  <img src="images/led.png" alt="LED Diagram" width="500"/>
 </p>
 
 A Light Emitting Diode (LED) is a semiconductor electronic device that emits light when current flows through it. LEDs are commonly used as indicator lamps in various electronic circuits and are increasingly used for lighting applications due to their energy efficiency, durability, and long operational life.
 LEDs work on the principle of electroluminescence. When the diode is forward biased, electrons recombine with holes within the semiconductor material, releasing energy in the form of light. The color of the emitted light depends on the semiconductor material used in the LED.
 
 2) Resistor
+
+<p align="left">
+  <img src="images/Resistor.png" alt="LED Diagram" width="500"/>
+</p>
+<p align="left">
+  <img src="images/R2.png" alt="LED Diagram" width="500"/>
+</p>
+
 
 
 A resistor is a passive electronic component that is used to limit or regulate the flow of electric current in a circuit. It helps in protecting components by controlling voltage and current levels. Resistors are widely used in electronic circuits for functions such as current limiting, voltage division, and signal conditioning.
