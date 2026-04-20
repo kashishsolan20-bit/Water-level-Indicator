@@ -1,5 +1,5 @@
 # CIRCUIT DIAGRAM
 
 <p align="centre">
-  <img src="../Images/circuit.avif" alt="LED Diagram" width="500"/>
+  <img src="../Images/circuit1.jpg" alt="LED Diagram" width="700"/>
 </p>
