@@ -3,7 +3,7 @@
 ## 1) Light Emitting Diode (LED)
 
 <p align="left">
-  <img src="../Images/led.png" alt="LED Diagram" width="200"/>
+  <img src="/Images/led.png" alt="LED Diagram" width="200"/>
 </p>
 
 A Light Emitting Diode (LED) is a semiconductor electronic device that emits light when current flows through it. LEDs are commonly used as indicator lamps in various electronic circuits and are increasingly used for lighting applications due to their energy efficiency, durability, and long operational life.
